@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Test Dataset - mix of FANTASY and SC-FI to suppor the BookManagerDBUnitTest -->
+<dataset>
+	<book id="1" title="The Lord of the Rings"
+		description="the Lord of the Rings is an epic high fantasy novel written by English philologist and University of Oxford professor J. R. R. Tolkien"
+		category="FANTASY" />
+	<book id="2" title="The War of the Worlds" description="War in space"
+		category="FANTASY" />
+	<book id="3" title="Apollo 13"
+		description="Apollo 13 was the seventh manned mission in the American Apollo space program and the third intended to land on the Moon"
+		category="SCIFI" />
+	<book id="4" title="2001: A Space Oddysey"
+		description="2001: A Space Odyssey is a 1968 British-American science fiction film produced and directed by Stanley Kubrick"
+		category="SCIFI" />
+	<book id="5" title="Dune"
+		description="Dune is a 1984 science fiction film written and directed by David Lynch, based on the 1965 Frank Herbert novel of the same name."
+		category="SCIFI" />
+</dataset>
