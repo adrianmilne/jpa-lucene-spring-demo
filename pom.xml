@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
-			<version>2.2.9</version>
+			<version>1.8.0.10</version>
 		</dependency>
 
 
@@ -97,9 +97,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>mockit</groupId>
+			<groupId>com.googlecode.jmockit</groupId>
 			<artifactId>jmockit</artifactId>
-			<version>0.999.10</version>
+			<version>1.3</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
