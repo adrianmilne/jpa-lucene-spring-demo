@@ -1,6 +1,11 @@
 jpa-lucene-spring-demo
 ======================
 
+Full write up at Javalobby: http://architects.dzone.com/articles/jpa-searching-using-lucene
+
+Also on Blog: http://corsoftlimited.blogspot.co.uk/2013/08/jpa-searching-using-lucene-working.html
+
+
 Demo project using JPA, Lucene, Spring, DBUnit and JMockit - to persist and search for simple Book data.
 
 This is a Maven project. To build it and run the tests, you first need to install maven (http://maven.apache.org/).
