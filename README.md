@@ -1,9 +1,11 @@
 jpa-lucene-spring-demo
 ======================
 
+<img src="http://www.adrianmilne.com/wp-content/uploads/2013/08/feature-image-template-lucene.png"/>
+
 Full write up at Javalobby: http://architects.dzone.com/articles/jpa-searching-using-lucene
 
-Also on Blog: http://corsoftlimited.blogspot.co.uk/2013/08/jpa-searching-using-lucene-working.html
+Also on Blog: http://www.adrianmilne.com/jpa-searching-using-lucene-working/
 
 
 Demo project using JPA, Lucene, Spring, DBUnit and JMockit - to persist and search for simple Book data.
